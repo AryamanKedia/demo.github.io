@@ -1,0 +1,56 @@
+<html>
+<head>
+</head>
+<title> this is the comparision of the top 5 games in the world
+</title>
+<body>
+  <table>
+    <tr>
+      <th>Comparison Table   </th> 
+      <td>PUBG</td>
+      <td>FortNite</td>
+      <td>Call of duty</td>
+      <td>Clash of clans</td>
+      <td>Minecraft</td>
+     </tr>
+     <tr>
+      <td> Graphics</td>
+      <td> Good </td>
+      <td> Medium</td>
+      <td> Good </td>
+      <td> Medium </td>
+      <td> Bad </td>
+     </tr>
+     <tr>
+      <td>Storyline</td>
+      <td>Medium</td>
+      <td> Good</td>
+      <td> Medium </td>
+      <td> Good</td>
+      <td> Good </td>
+     </tr>
+     <tr>
+      <td>Difficulty level </td>
+      <td>Good</td>
+      <td>Good</td>
+      <td>Good</td>
+      <td>Medium </td>
+      <td>Bad</td>
+     </tr>
+     <tr>
+      <td>Characters</td>
+      <td>Good</td>
+      <td>Good</td>
+      <td> Good </td>
+      <td> Medium</td>
+      <td>Medium</td>
+     </tr>
+     <tr>
+     <td>Compatibility with devices</td>
+      <td>Good</td>
+      <td> Good</td>
+      <td> Bad </td>
+      <td> Good</td>
+      <td> Good</td>
+</body>
+</html>
